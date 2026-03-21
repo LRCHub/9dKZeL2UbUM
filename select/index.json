@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "base_track": "Episode X",
+  "base_artist": "Ado",
+  "createdAt": "2026-03-21T13:10:19.296547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Episode X (Arrival)",
+      "artist": "Royal Hunt",
+      "has_synced": false,
+      "path": "select/01_Episode_X_(Arrival)_Royal_Hunt.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_Episode_X_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Episode X (Inst.)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_Episode_X_(Inst.)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_Episode_X_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_Episode_X_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Episode X\u001f「www.jpopsingles.eu」",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_Episode_X_「www.jpopsingles.eu」_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_Episode_X_Ado.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_01_Episode_X_Ado.lrc",
+      "repo_name": "9dKZeL2UbUM"
+    },
+    {
+      "id": "localdb_dynamic_1",
+      "source": "localdb",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_01_Episode_X_Ado.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "9dKZeL2UbUM"
+    }
+  ]
+}
